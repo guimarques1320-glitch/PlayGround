@@ -16,3 +16,12 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/guimarques1320-glitch).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## LAST LIGHT — Willow Island
+
+A standalone, lightweight survival shooter that runs in the browser without external assets or libraries. Open `index.html` (or serve this folder with any static web server) to play.
+
+- **Desktop:** W/S or ↑/↓ to move, A/D or ←/→ to turn, mouse to fire, Space to vault, R to reload.
+- **Phone / tablet:** left thumbstick to move and turn; FIRE, JUMP, and reload controls on the right.
+- Scavenge ammo, field kits, and shield cells; take on eleven AI rivals and stay inside the shrinking safe zone.
+
